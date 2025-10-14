@@ -11,7 +11,7 @@
 
 ---
 
-### **A) 如何运行 CLI 项目 (例如: Lab1/MyFirstApp)
+### A) 如何运行 CLI 项目 (例如: Lab1/MyFirstApp)
 
 1.  **进入项目目录**:
     ```bash
@@ -34,9 +34,10 @@
 
 ---
 
-### **B) 如何运行 Expo 项目 (例如: Lab3/red-note)
+### B) 如何运行 Expo 项目 (例如: Lab3/red-note)
 
 1.  **进入项目目录**:
+    
     ```bash
     cd Lab3/red-note
     ```
